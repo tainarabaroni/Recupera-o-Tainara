@@ -1,0 +1,42 @@
+@import url(@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+bidy{
+    background-color:  #305050;
+    color:white;
+    text-align: center;
+    padding: 0 24px;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+}
+
+texto-um {
+ color: #FFA500;
+ font-size: 24px;
+}
+
+.texto-dois{
+
+    color: #FFA500;
+    font-size: 24px;
+}
+
+.paragrafo{
+
+    font-size: 20px;
+}
+
+.rodape{
+
+    text-align: center;
+    display: grid;
+    font-size: 20px;
+}
+
+.image{
+    width: 60%;
+}
+
+.line{
+    border-bottom: 1px solid #808080;
+    border-top: 1px solid #808080;
+}
